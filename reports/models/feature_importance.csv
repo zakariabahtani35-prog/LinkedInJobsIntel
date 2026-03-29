@@ -1,0 +1,29 @@
+Feature,Importance
+seniority_numeric,0.42115852
+skill_power_bi,0.08198938
+skill_kubernetes,0.057703827
+skill_aws,0.05137981
+skill_count,0.04824455
+role_Data Scientist,0.038390923
+skill_tableau,0.037812598
+skill_rust,0.03679399
+skill_machine_learning,0.036722932
+skill_spark,0.03257098
+role_Cloud/DevOps,0.030127367
+skill_go,0.027249044
+loc_France,0.01809467
+job_age_days,0.017967988
+skill_docker,0.015809683
+post_weekday,0.015623201
+skill_python,0.013621013
+skill_sql,0.013231015
+loc_Canada,0.005508451
+post_month,0.0
+role_Data Engineer,0.0
+role_Analyst,0.0
+role_Software,0.0
+loc_Germany,0.0
+loc_Netherlands,0.0
+loc_UK,0.0
+loc_US,0.0
+loc_Worldwide,0.0

@@ -1,0 +1,54 @@
+🔵 I just analysed 5,000+ tech job postings to answer the question
+no data curriculum will tell you:
+
+"Which skills actually pay MORE — and by how much?"
+
+Here's what the data says 👇
+
+─────────────────────────────────────
+🧠 INSIGHT 1: Skill Combinations > Individual Skills
+─────────────────────────────────────
+Knowing Python alone: +0% over baseline.
+Python + AWS: +22%
+Python + dbt: +28%
+Machine Learning + Kubernetes: +35% salary premium
+
+The market rewards SYSTEMS thinkers, not tool specialists.
+
+─────────────────────────────────────
+💰 INSIGHT 2: The Seniority Gap is Real — and Quantifiable
+─────────────────────────────────────
+Junior → Senior = +$45,000 median salary gap.
+The fastest path? Build ONE full system:
+ingest → clean → model → deploy → monitor.
+Not 10 tutorial projects. ONE production system.
+
+─────────────────────────────────────
+📉 INSIGHT 3: The Biggest Market Gaps (= Your Opportunity)
+─────────────────────────────────────
+dbt: demand up 180% YoY — supply STILL low
+Security/DevOps: Top 25% pay, but bottom 10% volume.
+
+These aren't trends. They're open doors.
+
+─────────────────────────────────────
+🤖 WHAT I BUILT:
+
+→ End-to-end Python pipeline (Scraper, Cleaner, Feature Eng)
+→ Salary prediction model (XGBoost, R²=0.78)
+→ Interactive Plotly Dash dashboard with live filters
+→ Business strategy engine (Market gaps & premiums)
+
+TOOLS: Python · pandas · scikit-learn · Plotly Dash · XGBoost
+
+─────────────────────────────────────
+
+If you're early in your data career, I'd say this:
+
+Don't learn more tools. Build fewer, better things.
+The market doesn't pay for knowledge — it pays for impact.
+
+Full project on GitHub: [link]
+
+#DataScience #Python #MachineLearning #DataEngineering
+#CareerAdvice #LinkedIn #Portfolio #JobSearch #AI

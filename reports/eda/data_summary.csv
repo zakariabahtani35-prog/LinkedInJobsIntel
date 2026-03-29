@@ -1,0 +1,9 @@
+Column,DataType,Non-Null Count,Null Count,Unique Values
+id,int64,1499,0,1499
+title,object,1499,0,7
+company,object,1499,0,7
+category,object,1499,0,5
+tags,object,1499,0,1157
+location,object,1499,0,7
+salary,object,1499,0,1484
+salary_numeric,float64,1499,0,1484

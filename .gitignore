@@ -1,0 +1,34 @@
+# --- 🐍 Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# --- 📊 Data & Models (IMPORTANT: DO NOT UPLOAD LARGE DATA) ---
+data/raw/
+data/processed/*.csv
+data/processed/*.parquet
+data/processed/features/*.parquet
+models/*.pkl
+models/transformers/*.pkl
+!data/sample_jobs.csv
+!models/model_placeholder.txt
+
+# --- 📓 Notebooks & IDE ---
+.ipynb_checkpoints
+.vscode/
+.idea/
+*.swp
+
+# --- 📈 Logs & Reports ---
+*.log
+reports/pipeline.log
+.DS_Store

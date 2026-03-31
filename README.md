@@ -77,4 +77,4 @@ This system is an **End-to-End Artificial Intelligence Product** that scrapes, c
 **[Your Name/Role]**
 *Passionate about building production-grade data systems that solve real-world career challenges.*
 
-[LinkedIn Profile](https://linkedin.com) | [Portfolio](https://yourportfolio.com)
+[LinkedIn Profile]([https://linkedin.com](https://ma.linkedin.com/in/zakaria-bahtani-b64251390)) | [Portfolio](https://yourportfolio.com)
